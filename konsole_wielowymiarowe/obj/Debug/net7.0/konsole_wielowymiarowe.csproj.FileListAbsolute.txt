@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\konsole_wielowymiarowe\bin\Debug\net7.0\konsole_wielowymiarowe.exe
+C:\Users\student\Desktop\konsole_wielowymiarowe\bin\Debug\net7.0\konsole_wielowymiarowe.deps.json
+C:\Users\student\Desktop\konsole_wielowymiarowe\bin\Debug\net7.0\konsole_wielowymiarowe.runtimeconfig.json
+C:\Users\student\Desktop\konsole_wielowymiarowe\bin\Debug\net7.0\konsole_wielowymiarowe.dll
+C:\Users\student\Desktop\konsole_wielowymiarowe\bin\Debug\net7.0\konsole_wielowymiarowe.pdb
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.AssemblyInfo.cs
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.dll
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\refint\konsole_wielowymiarowe.dll
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.pdb
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\konsole_wielowymiarowe.genruntimeconfig.cache
+C:\Users\student\Desktop\konsole_wielowymiarowe\obj\Debug\net7.0\ref\konsole_wielowymiarowe.dll

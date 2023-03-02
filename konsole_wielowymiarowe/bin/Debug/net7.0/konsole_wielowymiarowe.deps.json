@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "konsole_wielowymiarowe/1.0.0": {
+        "runtime": {
+          "konsole_wielowymiarowe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "konsole_wielowymiarowe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
