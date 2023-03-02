@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\ijsdshfijsdhfk\bin\Debug\net7.0\ijsdshfijsdhfk.exe
+C:\Users\student\Desktop\ijsdshfijsdhfk\bin\Debug\net7.0\ijsdshfijsdhfk.deps.json
+C:\Users\student\Desktop\ijsdshfijsdhfk\bin\Debug\net7.0\ijsdshfijsdhfk.runtimeconfig.json
+C:\Users\student\Desktop\ijsdshfijsdhfk\bin\Debug\net7.0\ijsdshfijsdhfk.dll
+C:\Users\student\Desktop\ijsdshfijsdhfk\bin\Debug\net7.0\ijsdshfijsdhfk.pdb
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.AssemblyInfo.cs
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.dll
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\refint\ijsdshfijsdhfk.dll
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.pdb
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ijsdshfijsdhfk.genruntimeconfig.cache
+C:\Users\student\Desktop\ijsdshfijsdhfk\obj\Debug\net7.0\ref\ijsdshfijsdhfk.dll
